@@ -1,11 +1,27 @@
 # Analitica_de_negocios_fd
 #### Acercamiento a herramientas de analítica de negocios como Power BI, SQL, Python y R.
 
-# Hola mundo 1
-## Hola mundo 2
-### Hola mundo 3
-#### Hola mundo 4
-##### Hola mundo 5
-###### Hola mundo 6
+# ¡Hey!
+## Este es mi primer repositorio
+### Soy Felipe Díaz
+#### y estoy probando Github
+##### por primera vez
+###### Abajo un poco de mi:
 
-# **Este es mi primer repositorio en Github**
+# **Sobre mi:**
+
+#### *Administración de empresas enfasis en:*
+* Analitica de negocios
+* Marketing Digital
+
+####  *Habilidades*
+1. Finanzas
+2. Programación
+3. IA Generativa
+4. Modelos de optimización de costos
+5. Modelos financieros basados en IA
+
+[Universidad Externado de Colombia](https://www.uexternado.edu.co/administracion-de-empresas/)
+
+![Github](https://wolksoftcr.com/wp-content/uploads/2023/06/nueve-de-cada-diez-programadores-usan-ia-una-encuesta-de-github-muestra-como-lo-raro-precisamente-es-no-usarla.jpg)
+
