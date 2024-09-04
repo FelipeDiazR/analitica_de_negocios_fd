@@ -1,7 +1,7 @@
 # Analitica_de_negocios_fd
 #### Acercamiento a herramientas de analítica de negocios como Power BI, SQL, Python y R.
 
-# ¡Hey SOY BOYACO MAN!
+# ¡Bienvenido!
 ## Este es mi primer repositorio
 ### Soy Felipe Díaz
 #### y estoy probando Github
