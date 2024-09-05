@@ -21,6 +21,9 @@
 4. Modelos de optimización de costos
 5. Modelos financieros basados en IA
 
+# OneDrive 10.000 Empresas más grandes de Colombia
+[10.000 Empresas más grandes de Colombia - Felipe Díaz - PowerBI](https://uexternadoedu-my.sharepoint.com/:u:/g/personal/felipe_diaz01_est_uexternado_edu_co/EUPlhPBnHDxDiBHbEsG_ZwsBpvhTPiYm8J0VQRRg_NcPQg)
+
 [Universidad Externado de Colombia](https://www.uexternado.edu.co/administracion-de-empresas/)
 
 ![Github](https://wolksoftcr.com/wp-content/uploads/2023/06/nueve-de-cada-diez-programadores-usan-ia-una-encuesta-de-github-muestra-como-lo-raro-precisamente-es-no-usarla.jpg)
